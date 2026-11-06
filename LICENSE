@@ -1,0 +1,16 @@
+# SDPAP V3 TGP Open Hardware & Documentation License
+
+1. HARDWARE TOPOLOGY AND RTL (GDSII, SPICE, Verilog-A):
+   Licensed under the CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0).
+   You may redistribute and modify this documentation and associated hardware designs 
+   under the terms of the CERN-OHL-P v2 (https://ohwr.org/cernohl).
+
+2. TECHNICAL SPECIFICATIONS & DOCUMENTATION:
+   To the extent possible under law, the authors have waived all copyright and 
+   related or neighboring rights to the text, specifications, and architecture notes 
+   under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
+
+3. PATENT DEDICATION / PRIOR ART DECLARATION:
+   The foundational concepts, cell topologies, and ternary ALU execution flows contained 
+   herein are published as explicit Prior Art. No party holds exclusive rights to the 
+   1T1R balanced ternary memristive architecture described in this repository.
